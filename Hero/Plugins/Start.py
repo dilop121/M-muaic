@@ -109,12 +109,12 @@ async def useradd(_, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/df9794c81203954e9a8a4.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟɪsʜᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀʙʜɪᴍᴀɴʏᴜ ʀᴀɴᴀ](https://t.me/HONEY_SINGH_121)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ʙᴏᴛ](https://t.me/HONEY_SINGH_121)
 ┣★ ᴜᴘᴅᴀᴛᴇs : [ғᴇᴇʟɪɴɢs ᴢᴏɴᴇ](https://t.me/DIL_FEELINGS_WILL)
-┣★ sᴜᴘᴘᴏʀᴛ : [ᴀʟɪsʜᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/jannat_world_xd)
+┣★ sᴜᴘᴘᴏʀᴛ : [ᴊᴏᴛ sᴜᴘᴘᴏʀᴛ](https://t.me/jannat_world_xd)
 ┣★ ʀᴏᴄᴋs : [ᴄʜᴀᴛᴛɪɴɢ ᴢᴏɴᴇ](https://t.me/jannat_world_xd)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
