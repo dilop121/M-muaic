@@ -22,7 +22,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO", "https://github.com/Team-Alisha/Hero"
+    "UPSTREAM_REPO", "https://github.com/dilop121/M-muaic"
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
@@ -30,7 +30,7 @@ if str(getenv("SUPPORT_CHANNEL", "Sad_shayari_lovers")).strip() == "":
     SUPPORT_CHANNEL = None
 else:
     SUPPORT_CHANNEL = str(getenv("SUPPORT_CHANNEL"))
-if str(getenv("SUPPORT_GROUP", "Alisha_Support")).strip() == "":
+if str(getenv("SUPPORT_GROUP", "jannat_world_xd")).strip() == "":
     SUPPORT_GROUP = None
 else:
     SUPPORT_GROUP = str(getenv("SUPPORT_GROUP"))
