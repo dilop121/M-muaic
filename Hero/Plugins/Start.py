@@ -107,25 +107,25 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command("start") & filters.private & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/ba1e2843461ec2233a3c0.jpg",
+        photo=f"https://telegra.ph/file/df9794c81203954e9a8a4.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟɪsʜᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀʙʜɪᴍᴀɴʏᴜ ʀᴀɴᴀ](https://t.me/Venom_Hain_hum)
-┣★ ᴜᴘᴅᴀᴛᴇs : [ғᴇᴇʟɪɴɢs ᴢᴏɴᴇ](https://t.me/Feeling_Alone_Abhi)
-┣★ sᴜᴘᴘᴏʀᴛ : [ᴀʟɪsʜᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/Alisha_Support)
-┣★ ʀᴏᴄᴋs : [ᴄʜᴀᴛᴛɪɴɢ ᴢᴏɴᴇ](https://t.me/Shayri_music_lovers)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀʙʜɪᴍᴀɴʏᴜ ʀᴀɴᴀ](https://t.me/HONEY_SINGH_121)
+┣★ ᴜᴘᴅᴀᴛᴇs : [ғᴇᴇʟɪɴɢs ᴢᴏɴᴇ](https://t.me/DIL_FEELINGS_WILL)
+┣★ sᴜᴘᴘᴏʀᴛ : [ᴀʟɪsʜᴀ sᴜᴘᴘᴏʀᴛ](https://t.me/jannat_world_xd)
+┣★ ʀᴏᴄᴋs : [ᴄʜᴀᴛᴛɪɴɢ ᴢᴏɴᴇ](https://t.me/jannat_world_xd)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Venom_Hain_hum) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Jot_is_love) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴀʟɪsʜᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕",
-                        url=f"https://t.me/QueenAlisha_RoboT?startgroup=true",
+                        "➕ ❰ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕",
+                        url=f"https://t.me/Alone_Dil_bot?startgroup=true",
                     )
                 ]
             ]
@@ -141,14 +141,14 @@ async def useradd(_, message: Message):
 )
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/35bf0312d941f16363a54.jpg",
+        photo=f"https://telegra.ph/file/df9794c81203954e9a8a4.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞",
-                        url=f"https://t.me/Alisha_Support",
+                        "✨ ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ✨",
+                        url=f"https://t.me/AAROHI_SUPPORT_CHAT",
                     )
                 ]
             ]
@@ -164,13 +164,13 @@ async def useradd(_, message: Message):
 )
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph//file/35bf0312d941f16363a54.jpg",
+        photo=f"https://telegra.ph/file/df9794c81203954e9a8a4.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/Venom-xd-89/Hero"
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/jannat_world_xd"
                     )
                 ]
             ]
